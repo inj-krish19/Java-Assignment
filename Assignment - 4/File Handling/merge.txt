@@ -1,0 +1,2 @@
+These Are The Some Content For Showing How Many Words Are In Thiis File. We will     also confirm   it by the  double space and all the testcases. This    File I  salso Used in Program3 and its content is mergeed in merge.text with example.txt  .Thank you.
+This Is Example File That Is Used In Program3 and It Is Merged with words.txt and Merged Content In merge.txt
