@@ -1,0 +1,9 @@
+Details of Employee EMP102 : 
+
+Employee Number Is EMP102
+Employee Name Is DHRUV
+Employee Basic Salary Is 54000.0
+Employee Has 10.0% HRA
+Employee Has 8.0% DA
+54000.0 + 5400.0 + 4320.0 = 63720.0
+Employee Net Salary Is 63720.0

@@ -1,0 +1,9 @@
+Details of Employee EMP103 : 
+
+Employee Number Is EMP103
+Employee Name Is VISHAL
+Employee Basic Salary Is 12000.0
+Employee Has 7.5% HRA
+Employee Has 5.0% DA
+12000.0 + 900.0 + 600.0 = 13500.0
+Employee Net Salary Is 13500.0
